@@ -1,0 +1,8 @@
+C:\Users\22677\source\repos\Wallpaper\obj\Release\Wallpaper.csprojAssemblyReference.cache
+C:\Users\22677\source\repos\Wallpaper\obj\Release\Wallpaper.Form1.resources
+C:\Users\22677\source\repos\Wallpaper\obj\Release\Wallpaper.csproj.GenerateResource.cache
+C:\Users\22677\source\repos\Wallpaper\bin\Release\最美壁纸.exe
+C:\Users\22677\source\repos\Wallpaper\bin\Release\最美壁纸.pdb
+C:\Users\22677\source\repos\Wallpaper\obj\Release\最美壁纸.exe
+C:\Users\22677\source\repos\Wallpaper\obj\Release\最美壁纸.pdb
+C:\Users\22677\source\repos\Wallpaper\obj\Release\Wallpaper.Properties.Resources.resources

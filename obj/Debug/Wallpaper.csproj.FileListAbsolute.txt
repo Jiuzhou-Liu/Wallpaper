@@ -1,0 +1,8 @@
+C:\Users\22677\source\repos\Wallpaper\bin\Debug\Wallpaper.exe
+C:\Users\22677\source\repos\Wallpaper\bin\Debug\Wallpaper.pdb
+C:\Users\22677\source\repos\Wallpaper\obj\Debug\Wallpaper.csprojAssemblyReference.cache
+C:\Users\22677\source\repos\Wallpaper\obj\Debug\Wallpaper.Form1.resources
+C:\Users\22677\source\repos\Wallpaper\obj\Debug\Wallpaper.Properties.Resources.resources
+C:\Users\22677\source\repos\Wallpaper\obj\Debug\Wallpaper.csproj.GenerateResource.cache
+C:\Users\22677\source\repos\Wallpaper\obj\Debug\Wallpaper.exe
+C:\Users\22677\source\repos\Wallpaper\obj\Debug\Wallpaper.pdb
